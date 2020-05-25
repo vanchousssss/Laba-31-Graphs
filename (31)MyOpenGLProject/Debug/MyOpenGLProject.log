@@ -1,0 +1,52 @@
+﻿  MyProject.cpp
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(368,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(369,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(410,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(283,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(282): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(139): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(293): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(310): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<int>::Graph(void)"
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(310): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(38): message : во время компиляции функции-члена класс шаблон "int Graph<int>::Dijkstra(T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(182): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::Dijkstra(T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(41,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(42,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(51,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(63,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(70,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(79,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(97,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(108,46): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(118,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(116): message : во время компиляции функции-члена класс шаблон "bool Graph<int>::AllVisited(bool *)"
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(74): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<int>::AllVisited(bool *)"
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(282): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(139): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Graph.h(112): warning C4715: Graph<int>::Dijkstra: значение возвращается не при всех путях выполнения
+  MyOpenGLProject.vcxproj -> C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Debug\MyOpenGLProject.exe

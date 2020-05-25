@@ -1,0 +1,4 @@
+C:\Users\Иван\OneDrive\Рабочий стол\MyOpenGLProject\Debug\MyOpenGLProject.exe
+C:\Users\Иван\OneDrive\Рабочий стол\MyOpenGLProject\Debug\MyOpenGLProject.pdb
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Debug\MyOpenGLProject.exe
+C:\Users\Иван\OneDrive\Рабочий стол\(31)MyOpenGLProject\Debug\MyOpenGLProject.pdb
